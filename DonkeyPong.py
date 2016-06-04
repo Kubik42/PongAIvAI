@@ -1,7 +1,5 @@
 """
 Team Name: DonkeyPong
-Member: Dmitry Kubikov
-Student Number: 1001430579
 """
 
 from math import *
